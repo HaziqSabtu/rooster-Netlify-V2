@@ -1,6 +1,6 @@
 # Rooster - a social media app (V2)
 
-A newer Version is Available: [rooster-t3](https://github.com/HaziqSabtu/rooster-typescript)
+# A newer Version is Available: [rooster-t3](https://github.com/HaziqSabtu/rooster-typescript)
 ## Try: https://rooster-react.netlify.app
 ## Whats new :
 ***
